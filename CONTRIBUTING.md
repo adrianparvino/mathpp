@@ -21,4 +21,4 @@
 ```
 
 ### Coding style
-We follow the coding style as specified in [C++ Core Guidelines]{http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines}
+We follow the coding style as specified in [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
